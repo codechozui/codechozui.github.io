@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on CodeChoZui | Blog lập trình và công nghệ</title><link>https://codechozui.github.io/pages/</link><description>Recent content in Pages on CodeChoZui | Blog lập trình và công nghệ</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://codechozui.github.io/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Chính Sách Bảo Mật</title><link>https://codechozui.github.io/privacy-policy/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://codechozui.github.io/privacy-policy/</guid><description>&lt;h2 id="chính-sách-bảo-mật">Chính Sách Bảo Mật&lt;/h2>
+&lt;p>Sự riêng tư của bạn rất quan trọng đối với chúng tôi. Trang web này là một &lt;strong>trang web tĩnh&lt;/strong>, không thu thập bất kỳ thông tin cá nhân nào từ người dùng.&lt;/p></description></item><item><title>Điều Khoản Sử Dụng</title><link>https://codechozui.github.io/terms/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://codechozui.github.io/terms/</guid><description>&lt;h2 id="điều-khoản-sử-dụng">Điều Khoản Sử Dụng&lt;/h2>
+&lt;h3 id="1-giới-thiệu">1. Giới Thiệu&lt;/h3>
+&lt;p>Chào mừng bạn đến với trang web của chúng tôi. Khi truy cập và sử dụng trang web này, bạn đồng ý tuân thủ các điều khoản dưới đây.&lt;/p></description></item><item><title>Elements</title><link>https://codechozui.github.io/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://codechozui.github.io/elements/</guid><description>&lt;details class="table-of-content ">
+ &lt;summary>
+ 
+ Mục lục
+ 
+ &lt;/summary>
+ &lt;nav id="TableOfContents">
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-2">Heading 2&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-3">Heading 3&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-4">Heading 4&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-5">Heading 5&lt;/a>&lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;li>&lt;a href="#emphasis">Emphasis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#button">Button&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#link">Link&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#paragraph">Paragraph&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ordered-list">Ordered List&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#unordered-list">Unordered List&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#notice">Notice&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tab">Tab&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#accordions">Accordions&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#code-and-syntax-highlighting">Code and Syntax Highlighting&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#blockquote">Blockquote&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tables">Tables&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#image">Image&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#gallery">Gallery&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#slider">Slider&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#youtube-video">Youtube video&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#custom-video">Custom video&lt;/a>&lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;/ol>
+&lt;/nav>
+&lt;/details>
+
+&lt;p>Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code>#&lt;/code> for heading 1 and use &lt;code>######&lt;/code> for heading 6.&lt;/p></description></item></channel></rss>
